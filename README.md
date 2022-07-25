@@ -1,8 +1,6 @@
-# BC3: Instacart Market Basket Analysis 
+# Instacart Market Basket Analysis 
 
 **Problem type:** Market Basket Analysis
-
-**Submission date:** 12-04-2021 | 11.59pm
 
 ## General Context 
 
